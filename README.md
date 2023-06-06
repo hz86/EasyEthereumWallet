@@ -1,2 +1,16 @@
 # EasyEthereumWallet
-ç®€å•çš„ä»¥å¤ªåŠé’±åŒ…ä»£ç 
+
+## WalletCore¶ÔÏó  
+* Ö§³Ö´´½¨Öú¼Ç´Ê  
+* Ö§³ÖÖú¼Ç´ÊÉú³ÉË½Ô¿  
+* Ö§³ÖË½Ô¿ºÍKeystore»¥×ª  
+* Ö§³ÖÑéÖ¤Ç©ÃûºÍ½âÎö½»Ò×Êý¾Ý  
+
+## Account¶ÔÏó  
+* Ö§³ÖÇ©Ãû  
+* Ö§³Ö½»Ò×Ç©Ãû  
+
+## ChainNode¶ÔÏó  
+* Ö§³ÖÇëÇóRPC½Ó¿Ú  
+* Ö§³Ö·¢ËÍ½»Ò×  
+* Ö§³Ö»ñÈ¡½»Ò×½á¹û  
